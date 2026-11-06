@@ -19,3 +19,10 @@ How do education and race relate to the probability of smoking?
 
 ## Reproduce
 Download SMOKE.dta, put it in the same folder as the do-file, and run `smoke_analysis.do` in Stata.
+
+## Instructions to Run
+1. Download both the .do file and the dataset.
+2. Save both files in the same folder.
+3. Open Stata.
+4. Open smoke_analysis.do in the Do-file Editor.
+5. Click Do to run the analysis.
